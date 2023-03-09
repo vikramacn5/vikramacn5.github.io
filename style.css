@@ -119,7 +119,7 @@ a.abt-btn {
       rgba(0, 0, 0, 0.3)
     ),
     url("./img/cctv-banner2.jpg");
-
+  background-color: #000;
   background-size: cover;
   /* background-position: 0 -80px; */
   background-position: 0 center;

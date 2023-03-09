@@ -97,7 +97,7 @@ const sendEmail = function ({ userName, userEmail, userPhone, userMessage }) {
     Host: "smtp.elasticemail.com",
     Username: "vikram.cn5@gmail.com",
     Password: "E23F6E9165FFC7A518C11BC44D21963D29E0",
-    To: "vikram.cn5@gmail.com",
+    To: "adevarasan@gmail.com",
     From: "Vikram.cn5@gmail.com",
     Subject: "Regarding cctv service",
     Body: `
